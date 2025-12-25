@@ -211,3 +211,4 @@ model.compile(..., optimizer='adam', ...)
 **Слайд 16: Спасибо за внимание!**
 
 ### Ссылка на GitHub: https://github.com/graf1337/AI_and_Human_Comparison.git
+### Ссылка на Google Colab: https://colab.research.google.com/drive/1YmFVVe4BckKiVxKROgV3UvZeuJbF3zFn?usp=sharing
